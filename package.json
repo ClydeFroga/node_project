@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node ./dist/app",
+    "build": "tsc",
+    "dev": "ts-node src/app.ts"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/pg": "^8.11.11",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "ioredis": "^5.6.0",
+    "pg": "^8.14.1",
+    "redis": "^4.7.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
