@@ -1,5 +1,4 @@
 import { Purchase } from "../entities/Purchase";
-import { UserDto } from "../../User/dtos/UserDto";
 
 /**
  * Интерфейс сервиса для работы с покупками
